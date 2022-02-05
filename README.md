@@ -3,9 +3,10 @@
 
 - 🔭 I’m currently working on terminal chess and http authenticator, authorization 
 
-- 🌱 I’m currently learning everything
+- 🌱 learning everything
 
-:space_invader: https://www.linkedin.com/in/edgarssavrups/
+https://www.linkedin.com/in/edgarssavrups/
+
 Skills:
  - Git
  - C++
