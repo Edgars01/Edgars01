@@ -21,4 +21,4 @@ Skills:
  - HTML & CSS, VueJS, TypeScript & NodeJS basics
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Edgars01&show_icons=true&locale=en&layout=compact" alt="Edgars01" /></p>
+
