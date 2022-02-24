@@ -9,7 +9,6 @@ https://www.linkedin.com/in/edgarssavrups/
 
 Skills:
  - Git
- - C++
  - C# 
  - .NET
  - Relational Databases & SQL
