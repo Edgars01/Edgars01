@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Edgars</h1>
 <h3 align="center">A passionate Software developer from Riga, Latvia</h3>
 
-- 🔭 I’m currently working on terminal chess and http authenticator, authorization 
+- 🔭 I’m currently working on improving my unit testing skills 
 
 - 🌱 learning everything
 
