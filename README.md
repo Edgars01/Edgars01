@@ -10,6 +10,7 @@ https://www.linkedin.com/in/edgarssavrups/
 Skills:
  - Git
  - C# 
+ - PHP
  - .NET
  - Relational Databases & SQL
  - HTTP & Web API Basics
