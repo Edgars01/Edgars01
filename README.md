@@ -11,6 +11,9 @@ Skills:
  - Git
  - C# 
  - PHP
+ - DbVisualizer
+ - Apache
+ - WordPress
  - .NET
  - Relational Databases & SQL
  - HTTP & Web API Basics
